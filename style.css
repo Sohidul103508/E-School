@@ -1,0 +1,88 @@
+.para1{
+    color: red;
+}
+.para2{
+    color: green;
+}
+.firstcard{
+    border: none;
+}
+.logoimg{
+    height: 50px;
+    width: 100px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.firstcard{
+    box-shadow: none;
+    border: none;
+}
+.bye-now-button{
+    background-color: green;
+    height: 30px;
+    width: 80px;
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+    
+    cursor: pointer;
+    align-items: center;
+}
+.bye-now-button1{
+    background-color: green;
+    border-radius: 12px;
+    border: none;
+    height: 30px;
+    width: 150px;
+
+}
+#mycard{
+    border: none;
+}
+.card img{
+    width: 100px;
+    align-items: center;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.illu img{
+    height: 300px;
+    width: 400px;
+    align-items: center;
+}
+.card{
+    
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.testimonial{
+    align-items: center;
+    text-align: center;
+}
+.item1{
+    padding-top: 50px;
+}
+.card:hover{
+    background-color: rgb(255, 247, 247);
+    
+}
+.omanush img{
+    width: 90px;
+    justify-content: center;
+    margin-left: 250px;
+    
+}
+.topic3{
+    margin-top: 20px;
+}
+.book{
+    height: 100px;
+}
+.myfooter{
+    padding-top: 20px;
+    text-align: center;
+}
