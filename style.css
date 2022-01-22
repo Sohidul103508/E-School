@@ -15,23 +15,23 @@
     margin-bottom: 50px;
 }
 .firstcard{
-    box-shadow: none;
     border: none;
+    border-radius: 30px;
 }
 .bye-now-button{
-    background-color: green;
+    background-color: rgb(25, 184, 99);
     height: 30px;
     width: 80px;
     color: #fff;
     border: none;
-    border-radius: 12px;
+    border-radius: 20px;
     
     cursor: pointer;
     align-items: center;
 }
 .bye-now-button1{
-    background-color: green;
-    border-radius: 12px;
+    background-color: rgb(25, 184, 99);
+    border-radius: 20px;
     border: none;
     height: 30px;
     width: 150px;
@@ -43,6 +43,13 @@
 .card img{
     width: 100px;
     align-items: center;
+}
+.sesreami img{
+    height: 220px;
+    width: 345px;
+    align-items: center;
+    margin-left: 5px;
+    margin-top: 5px;
 }
 .card-footer{
     background-color: white;
@@ -79,10 +86,17 @@
 .topic3{
     margin-top: 20px;
 }
+.topic3 img{
+    height: 60px;
+    width: 100px;
+}
 .book{
     height: 100px;
 }
 .myfooter{
     padding-top: 20px;
     text-align: center;
+}
+.occlass{
+    margin-left: 20px;
 }
